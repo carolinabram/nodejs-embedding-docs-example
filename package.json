@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carolinabram/nodejs-embedding-docs-example/issues"
   },
-  "homepage": "https://github.com/carolinabram/nodejs-embedding-docs-example#readme"
+  "homepage": "https://github.com/carolinabram/nodejs-embedding-docs-example#readme",
+  "dependencies": {
+    "mongoose": "^5.11.16"
+  }
 }
